@@ -17,5 +17,7 @@
 
 下载
 ------
+|需求|link|
+|---|---|
 |CUDA10/Cudnn7.3/python3.6|https://github.com/hoshinohikari/Tensorflow/blob/master/CUDA10_Cudnn7.3/tensorflow-1.11.0-cp36-cp36m-linux_x86_64.whl|
 |CUDA10/Cudnn7.3/python2.7|https://github.com/hoshinohikari/Tensorflow/blob/master/CUDA10_Cudnn7.3/tensorflow-1.11.0-cp27-cp27mu-linux_x86_64.whl|
